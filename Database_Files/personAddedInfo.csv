@@ -1,0 +1,3 @@
+name,UID,username,password,email,type,dep,ststus
+decoy,2,p1,duck,decoy@system.com,sup,HVAC,free
+decoy2,x,p2,duck,des,staff,HVAC,free

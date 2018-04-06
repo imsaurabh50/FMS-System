@@ -1,0 +1,8 @@
+name1,UID1,username1,password1,email1,type1,dep1,status
+Enter Name,2,Enter Username,Enter Password,Enter Email,staff,elec,free
+Enter Name!,2,Enter Username!,Enter Password!,Enter Email!,staff,HVAC,free
+saurabh,3,sau,wtf,sau@d.com,staff,HVAC,free
+Enter Name!,4,u,Enter Password!,Enter Email!,staff,elec,free
+Enter Name,5,k,Enter Password,Enter Email,staff,HVAC,free
+Enter Name,6,o,Enter Password,Enter Email,staff,HVAC,free
+Enter Name,7,p,Enter Password,Enter Email,staff,HVAC,free
